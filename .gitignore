@@ -7,6 +7,8 @@
 # production
 /build
 rasa/rasa_env
+rasa/models
+rasa/.rasa
 
 # Created by https://www.toptal.com/developers/gitignore/api/node,react,jetbrains+all,visualstudiocode,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,react,jetbrains+all,visualstudiocode,macos,windows
